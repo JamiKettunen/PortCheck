@@ -1,10 +1,6 @@
 # PortCheck
 A simple host port checking tool for Windows.
 
-## Screenshot
-
-![UI preview](/Resources/ui-preview.png)
-
 ## Features
 * Simple IPv4 TCP port checking
 * Host IP editable (by default public IP will be fetched from https://api.ipify.org)
@@ -18,6 +14,10 @@ A simple host port checking tool for Windows.
 * IP can be edited by double-clicking
 * When editing IP, ESC will cancel & ENTER will save changes
 * Check a host's port by pressing ENTER on the port field
+
+## Screenshot
+
+![UI preview](/Resources/ui-preview.png)
 
 ## TODO
 * Add IPv6 support
